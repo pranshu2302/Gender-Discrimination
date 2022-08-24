@@ -1,5 +1,5 @@
 # Gender Determination by Morphometry of Eyes 
-This challenge is part of Deep Learning Bootcamp conducted by Dphi. You will have to build a deep learning model that would determines gender by Morphometry of eyes  
+You will have to build a deep learning model that would determines gender by Morphometry of eyes  
 ## Problem Statement
 The anthropometric analysis of the human face is an essential study for performing craniofacial plastic and reconstructive surgeries. Facial anthropometrics are affected by various factors such as age, gender, ethnicity, socioeconomic status, environment, and region.    
   
